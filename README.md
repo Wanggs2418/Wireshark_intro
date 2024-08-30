@@ -1,2 +1,2 @@
-# Wireshark_intro
-借助Wireshark的网络机制分析
+# 资源说明
+入门书籍：wireshark数据包分析实战(第3版) (克里斯.桑德斯)

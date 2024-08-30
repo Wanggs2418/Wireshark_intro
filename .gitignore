@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+doc/large_file
+
 # Distribution / packaging
 .Python
 build/
