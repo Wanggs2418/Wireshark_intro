@@ -11,6 +11,7 @@ doc/large_file
 # Distribution / packaging
 .Python
 build/
+ppa3ecaptures/
 develop-eggs/
 dist/
 downloads/
